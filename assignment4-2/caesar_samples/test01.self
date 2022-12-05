@@ -1,0 +1,11 @@
+5
+HIGH
+@
+LOW
+@
+RIGHT
+@
+LEFT
+@
+GOAHEAD
+@
